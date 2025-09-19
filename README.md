@@ -15,7 +15,7 @@ Fun over function.
 ---
 
 ## Stack
-<table>
+<table width="100%">
   <tr>
     <td><b>Language</b></td>
     <td><img src="https://skillicons.dev/icons?i=go,cpp,ts" /></td>
