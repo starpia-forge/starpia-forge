@@ -16,7 +16,7 @@ Fun over function.
 
 ## Stack
 <div align="center">
-  <div style="max-width:100%; overflow-x:auto;">
+  <div style="width:100%; max-width:100%; overflow-x:auto;">
     <table width="100%">
       <tr>
         <td><b>Language</b></td>
@@ -49,4 +49,5 @@ Fun over function.
     </table>
   </div>
 </div>
+
 ---
