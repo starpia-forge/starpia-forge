@@ -15,34 +15,39 @@ Fun over function.
 ---
 
 ## Stack
-### Backend & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nginx,docker,linux&perline=8" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,react,htmx,tailwind&perline=8" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=8" />
-</p>
-
-### VCS
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions&perline=8" />
-</p>
-
-### Game Client
-<p>
-  <img src="https://skillicons.dev/icons?i=godot,dotnet&perline=8" />
-</p>
-
-### Shell & Editor
-<p>
-  <img src="https://skillicons.dev/icons?i=bash,zsh,vim&perline=8" />
-</p>
+<table>
+  <tr>
+    <td><b>Language</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go" /></td>
+  </tr>
+  <tr>
+    <td><b>Infra & Gateway</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,linux,nginx&perline=8" /></td>
+  </tr>
+  <tr>
+    <td><b>Data Stores</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,redis&perline=8" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend (Web)</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,tailwind&perline=8" /></td>
+  </tr>
+  <tr>
+    <td><b>Browser/Extensions</b></td>
+    <td><img src="https://skillicons.dev/icons?i=chrome&perline=8" /></td>
+  </tr>
+  <tr>
+    <td><b>Game Dev</b></td>
+    <td><img src="https://skillicons.dev/icons?i=godot,dotnet&perline=8" /></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & VCS</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions&perline=8" /></td>
+  </tr>
+  <tr>
+    <td><b>Shell & Editor</b></td>
+    <td><img src="https://skillicons.dev/icons?i=bash,zsh,vim&perline=8" /></td>
+  </tr>
+</table>
 
 ---
