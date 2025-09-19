@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=starpia-forge&fontSize=44&fontAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Starpia%27s%20forge&fontSize=44&fontAlign=50&animation=fadeIn)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=starpia-forge&style=flat-square" alt="views" />
