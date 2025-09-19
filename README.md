@@ -18,7 +18,7 @@ Fun over function.
 <table>
   <tr>
     <td><b>Language</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go" /></td>
+    <td><img src="https://skillicons.dev/icons?i=go,cpp,ts" /></td>
   </tr>
   <tr>
     <td><b>Infra & Gateway</b></td>
@@ -30,23 +30,19 @@ Fun over function.
   </tr>
   <tr>
     <td><b>Frontend (Web)</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,react,tailwind&perline=8" /></td>
+    <td><img src="https://skillicons.dev/icons?i=htmx,react,tailwind&perline=8" /></td>
   </tr>
   <tr>
-    <td><b>Browser/Extensions</b></td>
-    <td><img src="https://skillicons.dev/icons?i=chrome&perline=8" /></td>
-  </tr>
-  <tr>
-    <td><b>Game Dev</b></td>
+    <td><b>Game Client</b></td>
     <td><img src="https://skillicons.dev/icons?i=godot,dotnet&perline=8" /></td>
   </tr>
   <tr>
     <td><b>DevOps & VCS</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions&perline=8" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions&perline=8" /></td>
   </tr>
   <tr>
     <td><b>Shell & Editor</b></td>
-    <td><img src="https://skillicons.dev/icons?i=bash,zsh,vim&perline=8" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bash,vim&perline=8" /></td>
   </tr>
 </table>
 
