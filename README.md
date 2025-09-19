@@ -19,3 +19,12 @@
 Fun over function.
 
 ---
+
+## Stack
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,docker,linux,postgres,redis,nginx,git,github,githubactions,bash,zsh,ts,react,tailwind,chrome,godot,dotnet,vim&perline=9" alt="skills" />
+  </a>
+</p>
+
+---
