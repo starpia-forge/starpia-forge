@@ -2,12 +2,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=starpia-forge&fontSize=44&fontAlign=50&animation=fadeIn)
 
 <p align="center">
-  <a href="https://github.com/starpia-forge">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&center=true&vCenter=true&width=520&lines=Less+bragging%2C+more+building;작게+시작%2C+자주+배포;실험+먼저%2C+문서는+짧게" alt="typing" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=starpia-forge&style=flat-square" alt="views" />
   <img src="https://img.shields.io/github/followers/starpia-forge?style=flat-square&label=followers" alt="followers" />
   <img src="https://img.shields.io/badge/%F0%9F%8C%9F%20pin-Pinned%20repos-blue?style=flat-square" alt="pin" />
@@ -21,10 +15,34 @@ Fun over function.
 ---
 
 ## Stack
+### Backend & Infrastructure
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,docker,linux,postgres,redis,nginx,git,github,githubactions,bash,zsh,ts,react,tailwind,chrome,godot,dotnet,vim&perline=9" alt="skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=go,nginx,docker,linux&perline=8" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,htmx,tailwind&perline=8" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis&perline=8" />
+</p>
+
+### VCS
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions&perline=8" />
+</p>
+
+### Game Client
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,dotnet&perline=8" />
+</p>
+
+### Shell & Editor
+<p>
+  <img src="https://skillicons.dev/icons?i=bash,zsh,vim&perline=8" />
 </p>
 
 ---
