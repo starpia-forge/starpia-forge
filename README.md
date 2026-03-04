@@ -52,9 +52,9 @@
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=starpia-forge&show_icons=true&theme=transparent" alt="stats" />
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=starpia-forge&show_icons=true&theme=transparent" alt="stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starpia-forge&layout=compact&theme=transparent" alt="top langs" />
+    <img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=starpia-forge&layout=compact&theme=transparent" alt="top langs" />
   </a>
 </p>
